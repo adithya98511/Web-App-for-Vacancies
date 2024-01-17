@@ -1,0 +1,7 @@
+.tableFixHead          { overflow: auto; height: 500px; }
+.tableFixHead thead th { position: sticky; top: 0; z-index: 1; background-color: #fff; }
+
+/* Just common table stuff. Really. */
+table  { border-collapse: collapse; width: 100%; }
+th, td { padding: 8px 16px; }
+th     { background:rgb(255, 255, 255); }
